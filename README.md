@@ -11,7 +11,6 @@ The platform provides an intuitive dashboard for managing build pipelines, monit
 ---
 
 ## Features
-
 ### Pipeline Automation
 
 * Automated build processes
