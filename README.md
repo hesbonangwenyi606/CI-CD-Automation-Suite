@@ -58,18 +58,15 @@ The platform provides an intuitive dashboard for managing build pipelines, monit
 * shadcn/ui
 
 ### Backend
-
 * Node.js
 * Express.js
 
 ### DevOps
-
 * Docker
 * GitHub Actions
 * Kubernetes
 
 ### Database
-
 * PostgreSQL
 * Supabase
 
