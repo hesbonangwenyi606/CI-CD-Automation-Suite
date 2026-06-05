@@ -73,7 +73,6 @@ The platform provides an intuitive dashboard for managing build pipelines, monit
 ---
 
 ## Project Structure
-
 ```text
 src/
 ├── components/
