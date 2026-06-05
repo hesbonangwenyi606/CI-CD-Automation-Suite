@@ -135,16 +135,6 @@ npm run preview
 
 ---
 
-## Author
-
-Hesbon Angwenyi
-
-Software Engineer | Full Stack Developer | DevOps Enthusiast
-
-
-
----
-
 ## License
 
 This project is licensed under the MIT License.
