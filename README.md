@@ -141,14 +141,7 @@ Hesbon Angwenyi
 
 Software Engineer | Full Stack Developer | DevOps Enthusiast
 
-GitHub:
-https://github.com/hesbonangwenyi606
 
-LinkedIn:
-https://www.linkedin.com/in/hesbon-angwenyi
-
-Portfolio:
-https://hezy.netlify.app
 
 ---
 
