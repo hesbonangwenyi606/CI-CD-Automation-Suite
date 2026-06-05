@@ -37,7 +37,6 @@ The platform provides an intuitive dashboard for managing build pipelines, monit
 * Activity tracking
 
 ### Integrations
-
 * GitHub
 * GitLab
 * Bitbucket
