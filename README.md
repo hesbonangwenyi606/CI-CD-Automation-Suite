@@ -23,7 +23,6 @@ The platform provides an intuitive dashboard for managing build pipelines, monit
 * Audit logging
 
 ### Monitoring & Observability
-
 * Pipeline execution tracking
 * Deployment monitoring
 * Build status reporting
