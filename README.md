@@ -49,7 +49,6 @@ The platform provides an intuitive dashboard for managing build pipelines, monit
 ---
 
 ## Technology Stack
-
 ### Frontend
 
 * React
