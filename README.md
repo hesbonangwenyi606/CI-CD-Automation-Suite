@@ -16,7 +16,6 @@ The platform provides an intuitive dashboard for managing build pipelines, monit
 * Scheduled deployments
 
 ### Security & Compliance
-
 * Vulnerability scanning
 * Dependency security checks
 * Code quality analysis
