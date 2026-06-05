@@ -30,7 +30,6 @@ The platform provides an intuitive dashboard for managing build pipelines, monit
 * Real-time alerts
 
 ### Team Collaboration
-
 * Multi-user access
 * Role-based permissions
 * Team dashboards
