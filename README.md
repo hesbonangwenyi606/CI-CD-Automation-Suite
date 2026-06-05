@@ -87,7 +87,6 @@ src/
 ---
 
 ## Installation
-
 Clone the repository:
 
 ```bash
@@ -127,7 +126,6 @@ npm run preview
 ---
 
 ## Future Enhancements
-
 * AI-powered deployment recommendations
 * Infrastructure as Code management
 * Advanced security compliance reporting
