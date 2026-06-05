@@ -1,5 +1,4 @@
 # CI-CD Automation Suite
-
 A modern DevOps platform designed to streamline Continuous Integration and Continuous Deployment (CI/CD) workflows through automation, monitoring, security checks, and deployment management.
 
 ## Overview
